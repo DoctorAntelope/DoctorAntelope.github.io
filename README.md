@@ -2,7 +2,7 @@
 
 Table of contents:
 
-1. Item 1
+1. TOC
 {:toc}
 
 ## Basic setup
